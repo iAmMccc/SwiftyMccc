@@ -27,7 +27,7 @@
 
 ### 🟣 Swift Macro 系列
 
-**作者**：[@iAMMccc](https://github.com/iAMMccc) ｜ **篇数**：7 篇 ｜ [查看专栏 →](SwiftMacro/README.md)
+**作者**：[@iAMMccc](https://github.com/iAMMccc) ｜ **篇数**：7 篇 ｜ [查看专栏 →](https://github.com/iAmMccc/SwiftyMccc/tree/main/SwiftMacro)
 
 本系列系统拆解 Swift 宏的核心协议、语法结构与生成逻辑，构建一套完整的宏理解路径。
 
