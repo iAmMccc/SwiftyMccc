@@ -7,7 +7,7 @@
 
 ##  文章目录
 
-1. [Swift Macros - 1. 宏之起点](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/Swift%20Macros%20-%201.%20宏之起点.md.md)
+1. [Swift Macros - 1. 宏之起点](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/Swift%20Macros%20-%201.%20宏之起点.md)
 2. [Swift Macros - 2. 宏之全貌](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/Swift%20Macros%20-%202.%20宏之全貌.md)
 3. [Swift Macros - 3. 宏之Syntax](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/Swift%20Macros%20-%203.%20宏之Syntax.md)
 4. [Swift Macros - 3.1 SwiftSyntax 节点速查表](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/Swift%20Macros%20-%203.1%20Syntax速查表%20.md)
