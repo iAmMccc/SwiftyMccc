@@ -22,7 +22,7 @@
 
 ## 💬 反馈与参与
 
-- 欢迎通过 [Issue](https://github.com/iAMMccc/SwiftyMccc/issues) 提出建议或疑问  
+- 欢迎通过 [Issue](https://github.com/iAmMccc/SwiftyMccc/issues) 提出建议或疑问  
 - 也欢迎提交 PR，丰富此系列内容  
 - 若你喜欢这个系列，别忘了点个 ⭐️ 哦！
 
