@@ -236,7 +236,7 @@ public protocol DeclarationMacro: FreestandingMacro {
 
 ### 3. 对等绑定宏
 
-**说明**：`PeerMacro` 集成于 `AttachedMacro`，它是绑定宏的一种。它的宏角色为 `@attached(peer)`。
+**说明**：`PeerMacro` 继承于 `AttachedMacro`，它是绑定宏的一种。它的宏角色为 `@attached(peer)`。
 
 **作用**： 在同一个作用域旁边生成平级结构。
 
