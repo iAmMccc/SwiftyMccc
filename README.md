@@ -47,7 +47,7 @@
 ## 关注更新
 
 - 欢迎点击右上角 ⭐️ 关注本仓库，获取最新文章和内容更新。
-- 如果你对某个主题有想法、问题或建议，欢迎 [提交 Issue](https://github.com/你的用户名/ThinkSwift/issues) 一起交流。
+- 如果你对某个主题有想法、问题或建议，欢迎 [提交 Issue](https://github.com/iAmMccc/SwiftyMccc/issues) 一起交流。
 - 更欢迎直接提交 PR，共同完善内容，让 SwiftyMccc 成为一个更丰富、有趣的 Swift 知识地图。
 
 ------
