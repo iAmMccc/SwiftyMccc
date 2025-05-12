@@ -1,13 +1,3 @@
-<div style="background-color: #fafafa; padding: 30px; border-radius: 10px; text-align: center;">
-  <h1 style="font-size: 36px; color: #2c3e50; font-weight: bold;">SwiftyMccc</h1>
-  <p style="font-size: 18px; color: #34495e; font-weight: bold;">A whimsical deep dive into the world of Swift — powered by curiosity, crafted by Mccc.</p>
-  <p style="font-size: 16px; color: #7f8c8d;">✍️ Mccc<a href="https://github.com/iAMMccc" style="color: #3498db;"></a> — crafting Swift with passion, curiosity, and heart. </p>
-</div>
-
-
-
-
-
 
 <h1 align="center">SwiftyMccc</h1>
 
@@ -19,11 +9,7 @@
   <strong>✍️ Written by <a href="https://github.com/iAMMccc">@iAMMccc</a> ・ 💡 Crafting Swift with heart and curiosity</strong>
 </p>
 
-
-
-
-
-
+---
 
 **SwiftyMccc** 是我记录 Swift 技术思考与实验的地方。这里不提供教程合集，也不是标准答案，而是一张逐步展开的开发者脑图。
 
