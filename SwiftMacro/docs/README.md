@@ -2,21 +2,21 @@
 
 ## 基础篇
 
-#### Swift Macros - 宏之起点
+### Swift Macros - 宏之起点
 介绍宏的背景、为何被引入、基本用途、开发配置方式
 
 [查看详情]()
 
-#### Swift Macros - 宏之全貌
+### Swift Macros - 宏之全貌
 > 宏的类型体系、执行原理、角色机制和协议模型全景鸟瞰（面向有一定基础的读者）
 
 ---
 
-#### Swift Macros - 宏之角色
+### Swift Macros - 宏之角色
 > 核心内容：freestanding vs attached、8大角色类型（expression/member/...）  
 > 用通俗例子说明每种角色负责“干什么”
 
-#### Swift Macros - 宏之命名说明符
+### Swift Macros - 宏之命名说明符
 > `@names`, `@peerNames`, `@bodyNames` 等，解决命名冲突和精细控制  
 > 与“角色”天然绑定，是角色机制的补充说明
 
