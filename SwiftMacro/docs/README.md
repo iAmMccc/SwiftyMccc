@@ -5,12 +5,12 @@
 ### Swift Macros - 宏之起点
 介绍宏的背景、为何被引入、基本用途、开发配置方式
 
-[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/Swift%20Macros%20-%201.%20宏之起点.md)
+[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/1.%20宏之起点.md)
 
 ### Swift Macros - 宏之全貌
 宏的类型体系、执行原理、角色机制和协议模型全景鸟瞰
 
-[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/Swift%20Macros%20-%202.%20宏之全貌.md)
+[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/2.%20宏之全貌.md)
 
 ---
 
