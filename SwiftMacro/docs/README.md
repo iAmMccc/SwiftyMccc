@@ -3,14 +3,14 @@
 ## 基础篇
 
 ### Swift Macros - 宏之起点
-介绍宏的背景、为何被引入、基本用途、开发配置方式
+本文介绍了 **Swift 宏** 的背景与引入动机，阐述了宏在编程中的基本用途，帮助开发者理解宏如何简化代码编写、提升开发效率。内容还包括了宏的基本配置方式与使用场景，适合入门读者对宏有一个初步的了解。
 
-[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/1.%20宏之起点.md)
+[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/1.宏之起点.md)
 
 ### Swift Macros - 宏之全貌
-宏的类型体系、执行原理、角色机制和协议模型全景鸟瞰
+这篇文章从宏的类型体系、执行原理到角色机制和协议模型，为读者提供了一个宏系统的全景鸟瞰。文章介绍了宏在 Swift 中的不同角色及其协议关系，阐述了宏的扩展、展开过程以及如何结合协议实现多角色配合，帮助有一定基础的开发者全面理解宏的设计和应用。
 
-[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/2.%20宏之全貌.md)
+[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/2.宏之全貌.md)
 
 ---
 
