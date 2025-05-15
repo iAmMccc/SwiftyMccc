@@ -15,10 +15,9 @@
 ---
 
 ### Swift Macros - 宏之角色
-> 核心内容：freestanding vs attached、8大角色类型（expression/member/...）  
-> 用通俗例子说明每种角色负责“干什么”
+本篇文章聚焦 Swift 宏系统中的“职责控制”与“命名控制”机制，系统讲解宏的三大核心组成：**宏类型（Macro Kind）**、**宏角色（Macro Role）** 和 **命名说明符（Name Specifier）**。通过区分独立宏与绑定宏、梳理各类宏角色，并结合命名说明符的使用方式，帮助开发者构建更清晰、稳定、可维护的宏能力体系。
 
-[查看详情]()
+[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/3.宏之角色.md)
 
 ### Swift Macros - 宏之命名说明符
 
