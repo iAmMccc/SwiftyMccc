@@ -32,7 +32,7 @@
 写 Swift 宏绕不开和 SwiftSyntax 打交道——这个表就是你的语法树导航手册！
 常见的表达式、声明、语句、类型等节点都在这里，配好示例，方便你随时查、随时造，少翻源码，多造好宏。
 
-[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/4.1 SwiftSyntax节点速查表.md)
+[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/4.1%20SwiftSyntax节点速查表.mdd)
 
 
 
