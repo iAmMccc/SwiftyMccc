@@ -27,12 +27,11 @@
 
 
 
-#### Swift Macros - 宏之语法节点速查表
+#### Swift Macros - 宏之节点指南
 
-写 Swift 宏绕不开和 SwiftSyntax 打交道——这个表就是你的语法树导航手册！
-常见的表达式、声明、语句、类型等节点都在这里，配好示例，方便你随时查、随时造，少翻源码，多造好宏。
+本文梳理了 SwiftSyntax 中常用的语法节点，涵盖表达式、声明、语句、类型、模式、属性、宏以及其他常用节点。每个节点均提供简要描述和快速构造示例，旨在为开发者在使用 Swift 宏和 SwiftSyntax 进行代码生成、分析和转换时，提供一份高效、准确的参考资料。
 
-[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/5.宏之语法节点速查表.md)
+[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/5.宏之节点指南.md)
 
 
 
