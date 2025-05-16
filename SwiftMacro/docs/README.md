@@ -1,5 +1,7 @@
 # Swift Macros 系列 - 玩转 Swift 宏，从入门到精通
 
+
+
 ## 基础篇
 
 ### Swift Macros - 宏之起点
@@ -12,27 +14,29 @@
 
 [查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/2.宏之全貌.md)
 
----
-
 ### Swift Macros - 宏之职责与命名
 本篇文章聚焦 Swift 宏系统中的“职责控制”与“命名控制”机制，系统讲解宏的三大核心组成：**宏类型（Macro Kind）**、**宏角色（Macro Role）** 和 **命名说明符（Name Specifier）**。通过区分独立宏与绑定宏、梳理各类宏角色，并结合命名说明符的使用方式，帮助开发者构建更清晰、稳定、可维护的宏能力体系。
 
 [查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/3.宏之职责与命名.md)
 
-### Swift Macros - 宏之命名说明符
+### Swift Macros - 宏之语法树
 
-> `@names`, `@peerNames`, `@bodyNames` 等，解决命名冲突和精细控制  
-> 与“角色”天然绑定，是角色机制的补充说明
+本篇文章聚焦 Swift 宏系统中的“语法基础”与“结构操控”能力，深入剖析宏所操作的核心结构——**语法节点（Syntax）**。通过讲解 SwiftSyntax 的节点体系、语法树的提取与构造方式、以及 `\(raw:)` 插值的正确用法，帮助开发者掌握宏展开背后的语法逻辑与生成原理，为构建结构化、类型安全的宏能力奠定坚实基础。
 
-宏的命名规范与组织
+[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/4.宏之语法树.md)
 
-> 如何规范化宏的命名，确保代码的可读性与维护性。
 
-[查看详情]()
 
----
+#### SwiftSyntax 节点速查表
 
-#### Swift Macros - 宏之协议
+写 Swift 宏绕不开和 SwiftSyntax 打交道——这个表就是你的语法树导航手册！
+常见的表达式、声明、语句、类型等节点都在这里，配好示例，方便你随时查、随时造，少翻源码，多造好宏。
+
+[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/4.1 SwiftSyntax节点速查表.md)
+
+
+
+### Swift Macros - 宏之协议
 
 1. **宏协议概述**  
    简要介绍所有宏协议的概念，作用及其关系。  
