@@ -35,39 +35,39 @@
 
 Swift 宏系统通过不同的协议定义了宏的多种角色和能力，从表达式生成、声明插入，到成员绑定、访问控制等。本系列文章将逐个讲解这些协议的定义、特性及适用场景，帮助你系统理解宏的角色体系。
 
-#### 宏协议概述
+#### 1.宏协议概述
 
 简要介绍 Swift 中所有宏协议的概念、作用及它们之间的关系，作为理解整个宏协议体系的入口。[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/6.宏之协议.md)
 
-#### 表达式独立宏（ExpressionMacro）
+#### 2.表达式独立宏（ExpressionMacro）
 
 讲解 `ExpressionMacro` 协议的定义与使用场景，展示如何基于表达式节点生成动态代码。[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/6.1表达式独立宏.md)
 
-#### 声明式独立宏（DeclarationMacro）
+#### 3.声明式独立宏（DeclarationMacro）
 
 分析 `DeclarationMacro` 如何生成声明代码，结合初始化器、变量、函数的实际生成场景讲解。[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/6.2声明式独立宏.md)
 
-#### 成员绑定宏（MemberMacro）
+#### 4.成员绑定宏（MemberMacro）
 
 展示 `MemberMacro` 如何为结构体或类动态插入属性、方法等成员内容，是构建派生代码的核心手段。[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/6.3成员绑定宏.md)
 
-#### 对等绑定宏（PeerMacro）
+#### 5.对等绑定宏（PeerMacro）
 
 说明 `PeerMacro` 的用途，即在同一层级下生成兄弟声明，常用于生成辅助类型或伴生属性等。[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/6.4对等绑定宏.md)
 
-#### 访问器宏（AccessorMacro）
+#### 6.访问器宏（AccessorMacro）
 
 讲解 `AccessorMacro` 如何为现有的属性生成 getter/setter 等访问逻辑，结合 UserDefault 等场景展开。[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/6.5访问器绑定宏.md)
 
-#### 扩展宏（ExtensionMacro）
+#### 7.扩展宏（ExtensionMacro）
 
 展示 `ExtensionMacro` 用于生成扩展声明，实现协议适配、默认实现等功能。[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/6.6扩展绑定宏.md)
 
-#### 属性宏（MemberAttributeMacro）
+#### 8.属性宏（MemberAttributeMacro）
 
 讲解 `MemberAttributeMacro` 的应用，如为属性自动添加注解、权限、内联标识等修饰语。[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/6.7成员属性绑定宏.md)
 
-#### 方法体宏（BodyMacro）
+#### 9.方法体宏（BodyMacro）
 
 说明 `BodyMacro` 的设计方式，以及如何为已有函数添加函数体代码，常用于方法插桩与默认实现生成。[查看详情](https://github.com/iAmMccc/SwiftyMccc/blob/main/SwiftMacro/docs/6.8替换声明体绑定宏.md)
 
