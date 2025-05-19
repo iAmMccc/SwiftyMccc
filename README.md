@@ -53,3 +53,4 @@ Swift 宏是提升开发效率、降低样板代码、实现编译期能力的�
 
 ## 打赏支持
 
+![support](https://github.com/iAmMccc/SwiftyMccc/blob/main/support.png)
