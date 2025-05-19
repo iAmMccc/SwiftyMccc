@@ -27,18 +27,13 @@
 
 ### 🟣 Swift Macro 系列
 
-**作者**：[@iAMMccc](https://github.com/iAMMccc) ｜ **篇数**：7 篇 ｜ [查看专栏 →](https://github.com/iAmMccc/SwiftyMccc/tree/main/SwiftMacro)
+**作者**：[@iAMMccc](https://github.com/iAMMccc) ｜ **篇数**：14 篇 ｜ [查看专栏 →](https://github.com/iAmMccc/SwiftyMccc/tree/main/SwiftMacro)
 
-本系列系统拆解 Swift 宏的核心协议、语法结构与生成逻辑，构建一套完整的宏理解路径。
+Swift 宏是提升开发效率、降低样板代码、实现编译期能力的关键利器。它广泛应用于日志注入、代码生成、模型转换、属性包装等场景，能在保持类型安全的前提下，大幅简化重复逻辑。
 
-主要内容包括：
+本系列全面系统地拆解了 Swift 宏的核心协议、语法结构与生成机制，覆盖了从原理到实战的每一个关键点，帮助你真正掌握宏的设计思路与使用技巧。
 
-- 宏的基本定义与结构剖析  
-- Expression 宏的原理与优化方式  
-- Declaration 宏的应用场景与写法  
-- Accessor 与 Body 宏的生成策略  
-- 宏生成代码中的命名冲突处理机制  
-- 更多值得关注的实践细节
+**一套深入浅出的宏理解路径，既讲清“怎么用”，也解释“为什么”。**
 
 ---
 
