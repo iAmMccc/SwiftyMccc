@@ -37,7 +37,7 @@ Swift 宏是提升开发效率、降低样板代码、实现编译期能力的�
 
 ### 🔴 iOS 通知系统全解系列
 
-**作者**：[@iAMMccc](https://github.com/iAMMccc) ｜ **篇数**：11+ 篇 ｜ [查看专栏 →](https://github.com/iAmMccc/SwiftyMccc/blob/main/UserNotifications/docs/0.UserNotifications目录.md)
+**作者**：[@iAMMccc](https://github.com/iAMMccc) ｜ **篇数**：9 篇 ｜ [查看专栏 →](https://github.com/iAmMccc/SwiftyMccc/blob/main/UserNotifications/docs/0.UserNotifications目录.md)
 
 iOS 通知系统是现代移动应用实现用户触达和深度互动的核心机制。它涵盖了从权限获取、调度管理、精准触发，到内容展示、交互设计、扩展能力与安全隐私的全链路能力。通知不仅仅是消息提醒，更是提升用户留存和转化的关键利器。
 
