@@ -49,7 +49,7 @@ iOS 通知系统是现代移动应用实现用户触达和深度互动的核心�
 
 ### 🔵 iOS WebView 全解系列
 
-**作者**：[@iAMMccc](https://github.com/iAMMccc) ｜ **篇数**：筹备中 ｜ [查看专栏 →](https://github.com/iAmMccc/SwiftyMccc/blob/main/UserNotifications/docs/0.UserNotifications目录.md)
+**作者**：[@iAMMccc](https://github.com/iAMMccc) ｜ **篇数**：筹备中 ｜ [查看专栏 →](https://github.com/iAmMccc/SwiftyMccc/blob/main/WKWebView/docs/WKWebView目录.md)
 
 本系列将系统拆解 iOS WebView 的各项核心机制与最新特性，结合大量实战案例与最佳实践，帮助你从底层原理到业务落地全面掌握 WKWebView 的使用与优化，包括但不限于：
 
