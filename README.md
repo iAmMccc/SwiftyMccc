@@ -23,6 +23,18 @@
 
 ## 探索路线图
 
+### 🟢 SF Symbol 系列
+
+**作者**：[@iAMMccc](https://github.com/iAmMccc) ｜ **篇数**：4 篇 ｜ [查看专栏 →](https://github.com/iAmMccc/SwiftyMccc/blob/main/SF-Symbol/docs/README.md)
+
+SF Symbol 是 iOS 提供的矢量符号库，可轻松适配多种界面风格、动态字体与暗黑模式，是构建现代 iOS UI 的基础工具。它不仅提供海量标准符号，还支持多种样式、变体和动画效果，极大提升界面设计与交互表现力。
+
+本系列从符号基础、变体与样式，到动画效果与高级使用技巧，全面拆解 SF Symbol 的使用方法与设计理念，配合 Demo 示例，让你快速掌握符号在实际项目中的灵活运用。
+
+**一套直观且高效的 SF Symbol 学习路径，既教“怎么用”，也讲“为什么如此”，帮助开发者打造美观、动感且可维护的 iOS 界面。**
+
+
+
 ### 🟣 Swift Macro 系列
 
 **作者**：[@iAMMccc](https://github.com/iAMMccc) ｜ **篇数**：14 篇 ｜ [查看专栏 →](https://github.com/iAmMccc/SwiftyMccc/tree/main/SwiftMacro)
