@@ -1,0 +1,6 @@
+framework module McccSymbols {
+  umbrella header "McccSymbols-umbrella.h"
+
+  export *
+  module * { export * }
+}

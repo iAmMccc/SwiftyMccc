@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '18.0'
+
+target 'McccSymbols_Example' do
+  pod 'McccSymbols', :path => '../'
+
+  target 'McccSymbols_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end

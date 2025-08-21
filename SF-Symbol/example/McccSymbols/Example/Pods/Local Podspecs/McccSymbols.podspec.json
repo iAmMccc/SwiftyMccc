@@ -1,0 +1,22 @@
+{
+  "name": "McccSymbols",
+  "version": "0.1.0",
+  "summary": "A short description of McccSymbols.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/iAmMccc/McccSymbols",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iAmMccc": "562863544@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/iAmMccc/McccSymbols.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "15.0"
+  },
+  "source_files": "McccSymbols/Classes/**/*"
+}
