@@ -139,6 +139,24 @@ public extension CLLocationCoordinate2D {
         let mgLon = longitude + (dLon * 180.0) / (a / sqrtMagic * cos(radLat) * Double.pi)
         return CLLocationCoordinate2D(latitude: mgLat, longitude: mgLon)
     }
+
+    /// GCJ-02（火星坐标）-> WGS-84
+    /// CLCircularRegion / UNLocationNotificationTrigger 使用 WGS-84，设备 GPS 也返回 WGS-84
+    /// 在中国区，地图和 MKLocalSearch 使用 GCJ-02，需转回 WGS-84 才能正确触发区域通知
+    func toWGS84() -> CLLocationCoordinate2D {
+        if CLLocationCoordinate2D.outOfChina(latitude: latitude, longitude: longitude) {
+            return self
+        }
+        var wgs = self
+        for _ in 0..<10 {
+            let mars = wgs.toMars()
+            wgs = CLLocationCoordinate2D(
+                latitude: wgs.latitude - (mars.latitude - latitude),
+                longitude: wgs.longitude - (mars.longitude - longitude)
+            )
+        }
+        return wgs
+    }
 }
 
 // MARK: - Helpers
