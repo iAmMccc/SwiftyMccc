@@ -23,7 +23,7 @@
 
 ## 探索路线图
 
-🟢 iOS 布局系统系列
+### 🟣 iOS 布局系统系列
 
 作者：@iAMMccc ｜ 篇数：3 篇 ｜ [查看专栏 →](Layout/docs/README.md)
 
@@ -97,9 +97,3 @@ iOS 通知系统是现代移动应用实现用户触达和深度互动的核心�
 - 更欢迎直接提交 PR，共同完善内容，让 SwiftyMccc 成为一个更丰富、有趣的 Swift 知识地图。
 
 © 2025 SwiftyMccc · Made with Swift · Written with ❤️ by Mccc
-
-
-
-## 打赏支持
-
-![support](https://github.com/iAmMccc/SwiftyMccc/blob/main/support.png)
